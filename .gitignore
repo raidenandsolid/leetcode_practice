@@ -8,3 +8,5 @@ ipch/
 *.VC.db
 *.VC.VC.opendb
 !vs/
+*.json
+*.suo
